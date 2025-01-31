@@ -1,6 +1,6 @@
 # Regex Tutorial
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![GitHub repo size](https://img.shields.io/github/repo-size/egarrisxn/regex-tutorial) ![GitHub last commit](https://img.shields.io/github/last-commit/egarrisxn/regex-tutorial)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![GitHub repo size](https://img.shields.io/github/repo-size/egarrisxn/regex-tutorial-2023) ![GitHub last commit](https://img.shields.io/github/last-commit/egarrisxn/regex-tutorial-2023)
 
 _Initially created in the spring of 2023 for my UCF Full-Stack Web Development Bootcamp._
 
